@@ -2409,7 +2409,7 @@ body {
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #554346, #0f7699) !important;
 }
 .cid-s01I4FNssY .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -2439,5 +2439,5 @@ body {
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #554346, #0f7699) !important;
 }
